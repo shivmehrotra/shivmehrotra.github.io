@@ -7,7 +7,7 @@ comments: false
 
 <div class="row justify-content-between">
     <div class="col-md-8 pr-8">
-        <p>Hi!, I am Shiv Mehrotra and this is my personal website. I am presently a senior at Interlake High School in Bellevue, Washington looking forward to my exciting days at college. I have a deep interest in science, especially Chemistry. This website is a dedication to the same. hsnberg or heisenberg is an inspiration I drew from multiple sources. The obvious one is the Uncertainty Principle and the not so obvious one is the street name of the lead character of breaking bad Walter White, who was a High School Chemistry teacher in this widly popular sitcom.</p>
+        <p>Hi!, I am Shiv Mehrotra and this is my personal website. I am presently a senior at Interlake High School in Bellevue, Washington looking forward to my exciting days at college. I have a deep interest in science, especially Chemistry. This website is a dedication to the same. The name <b>hsnberg</b> a 7 letter short form for <b>heisenberg</b> is an inspiration I drew from multiple sources. The obvious one is the Uncertainty Principle and the not so obvious one is the street name of the lead character of breaking bad Walter White, who was a High School Chemistry teacher in this widly popular sitcom.</p>
         <p>The picture of me is frim my trip to Cancun, Mexico in December 2021 right around the time when  travel was eased during COVID. I am holding an Iguana on the island of Isla de Mujeres.</p>
     </div>
     <div class="col-md-4">
