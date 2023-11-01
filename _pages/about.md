@@ -48,10 +48,10 @@ comments: false
 </div>
 <div class="row justify-content-between">
     <div class="col-md-6">
-        <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/shiv-senior.jpg" alt="Shiv playing Flute" /></p>
+        <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/shiv-senior.jpg" alt="Shiv Senior Year" /></p>
     </div>
     <div class="col-md-6">
-        <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/shiv-holi.jpg" alt="Shiv playing Flute" /></p>
+        <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/shiv-holi.jpg" alt="Shiv Holi" /></p>
     </div>
 </div>
 <!--
