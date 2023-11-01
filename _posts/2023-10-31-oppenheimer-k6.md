@@ -2,7 +2,7 @@
 layout: post
 title:  "What was that K-6 pin Oppenheimer wore?"
 author: shiv
-categories: [ personal, life ]
+categories: [ personal ]
 featured: true
 hidden: true 
 image: assets/images/oppenheimer-halloween.jpg

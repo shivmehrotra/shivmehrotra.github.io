@@ -28,32 +28,7 @@ comments: false
     </div>
 </div>
 
-<div class="section-title">
-    <h2><span>Music</span></h2>
-</div>
-<div class="row justify-content-between">
-    <div class="col-md-8 pr-8">
-        <p>
-        I play both the Western Flute as well as the Indian Bamboo flute also known as the <i>Bansuri</i>. Here are pictures of me performing on stage. My dressing is Western for teh Flute and Indian for the Bansuri. For my Indian attire, I am wearing kurta pajama which is typical Indian mens' attire and sitting with my legs crossed which is how musicians from India perform.</p>
-    </div>
-    <div class="col-md-4">
-        <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/shiv-bansuri.jpg" alt="Shiv playing Bansuri" /></p>
-        <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/shiv-flute.jpg" alt="Shiv playing Flute" /></p>
-    </div>
-</div>
 
-
-<div class="section-title">
-    <h2><span>Life</span></h2>
-</div>
-<div class="row justify-content-between">
-    <div class="col-md-6">
-        <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/shiv-senior.jpg" alt="Shiv Senior Year" /></p>
-    </div>
-    <div class="col-md-6">
-        <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/shiv-holi.jpg" alt="Shiv Holi" /></p>
-    </div>
-</div>
 <!--
 <div class="col-md-4">
 

@@ -5,8 +5,8 @@
     <description>Chemistry, Music, Life</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 31 Oct 2023 23:55:43 -0700</pubDate>
-    <lastBuildDate>Tue, 31 Oct 2023 23:55:43 -0700</lastBuildDate>
+    <pubDate>Wed, 01 Nov 2023 01:03:41 -0700</pubDate>
+    <lastBuildDate>Wed, 01 Nov 2023 01:03:41 -0700</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -24,13 +24,93 @@
 &lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
 </description>
         <pubDate>Tue, 31 Oct 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/oppenheimer-halloween/</link>
-        <guid isPermaLink="true">http://localhost:4000/oppenheimer-halloween/</guid>
+        <link>http://localhost:4000/oppenheimer-k6/</link>
+        <guid isPermaLink="true">http://localhost:4000/oppenheimer-k6/</guid>
         
         
         <category>personal</category>
         
-        <category>life</category>
+      </item>
+    
+      <item>
+        <title>Alchemy</title>
+        <description>&lt;p&gt;I play both the Western Flute as well as the Indian Bamboo flute also known as the _&lt;i&gt;&lt;em&gt;Bansuri&lt;/em&gt;. Here are pictures of me performing on stage. My dressing is Western for teh Flute and Indian for the Bansuri. For my Indian attire, I am wearing kurta pajama which is typical Indian mens’ attire and sitting with my legs crossed which is how musicians from India perform.&lt;/i&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 01 Oct 2023 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/alchemy/</link>
+        <guid isPermaLink="true">http://localhost:4000/alchemy/</guid>
+        
+        
+        <category>chemistry</category>
+        
+      </item>
+    
+      <item>
+        <title>Chemistry of colors</title>
+        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor&lt;/p&gt;
+
+&lt;p&gt;If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
+
+&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
+
+&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
+
+&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;==highlight==&lt;/li&gt;
+  &lt;li&gt;*escaped characters*&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
+
+&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;.my-link {
+    text-decoration: underline;
+}
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
+
+&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
+
+&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
+
+&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 10 Aug 2023 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/chemistry-of-colors/</link>
+        <guid isPermaLink="true">http://localhost:4000/chemistry-of-colors/</guid>
+        
+        
+        <category>Jekyll</category>
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+      <item>
+        <title>My musical journey</title>
+        <description>&lt;p&gt;I play both the Western Flute as well as the Indian Bamboo flute also known as the _&lt;i&gt;&lt;em&gt;Bansuri&lt;/em&gt;. Here are pictures of me performing on stage. My dressing is Western for teh Flute and Indian for the Bansuri. For my Indian attire, I am wearing kurta pajama which is typical Indian mens’ attire and sitting with my legs crossed which is how musicians from India perform.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p class=&quot;mb-5&quot;&gt;&lt;img class=&quot;shadow-lg&quot; src=&quot;/assets/images/shiv-bansuri.jpg&quot; alt=&quot;Shiv playing Flute&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 21 Jul 2023 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/my-musical-journey/</link>
+        <guid isPermaLink="true">http://localhost:4000/my-musical-journey/</guid>
+        
+        
+        <category>Jekyll</category>
+        
+        <category>tutorial</category>
         
       </item>
     
@@ -221,56 +301,6 @@
         <category>personal</category>
         
         <category>chemistry</category>
-        
-      </item>
-    
-      <item>
-        <title>My musical journey</title>
-        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor&lt;/p&gt;
-
-&lt;p&gt;If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
-
-&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
-
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
-
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
-
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
-
-&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
-
-&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
-
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/education/</link>
-        <guid isPermaLink="true">http://localhost:4000/education/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
         
       </item>
     
