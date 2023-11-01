@@ -5,8 +5,8 @@
     <description>Chemistry, Music, Life</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Nov 2023 01:03:41 -0700</pubDate>
-    <lastBuildDate>Wed, 01 Nov 2023 01:03:41 -0700</lastBuildDate>
+    <pubDate>Wed, 01 Nov 2023 01:04:05 -0700</pubDate>
+    <lastBuildDate>Wed, 01 Nov 2023 01:04:05 -0700</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -90,9 +90,7 @@
         <guid isPermaLink="true">http://localhost:4000/chemistry-of-colors/</guid>
         
         
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
+        <category>chemistry</category>
         
       </item>
     
@@ -108,9 +106,9 @@
         <guid isPermaLink="true">http://localhost:4000/my-musical-journey/</guid>
         
         
-        <category>Jekyll</category>
+        <category>personal</category>
         
-        <category>tutorial</category>
+        <category>music</category>
         
       </item>
     
