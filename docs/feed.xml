@@ -3,29 +3,37 @@
   <channel>
     <title>heisenberg</title>
     <description>Chemistry, Music, Life</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Nov 2023 01:04:05 -0700</pubDate>
-    <lastBuildDate>Wed, 01 Nov 2023 01:04:05 -0700</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 03 Nov 2023 00:03:28 -0700</pubDate>
+    <lastBuildDate>Fri, 03 Nov 2023 00:03:28 -0700</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>What was that K-6 pin Oppenheimer wore?</title>
-        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
+        <description>&lt;p&gt;That is me, next to my organic chemistry professor &lt;a target=&quot;_blank&quot; href=&quot;https://www.bellevuecollege.edu/ids/staff/jennie-mayer/&quot;&gt;Jennie Mayer&lt;/a&gt; on Halloween.&lt;/p&gt;
 
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
+&lt;p&gt;I dressed up as Oppenheimer, while Dr. Mayer dressed up as Mary Poppins. I had my tweed suit, brown tie, and the K-6 pin from the movie &lt;i&gt;Oppenheimer&lt;/i&gt;. To top it off, I wore a brown pork pie hat, just like the real Oppenheimer did. Many loved my costume, but I stumbled across a common question all the time: what does the K-6 on my pin mean?
 
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;I had not actually thought about it: what DOES the K-6 on my pin mean? Some joked around and said it meant kindergarten to sixth grade, and that my costume was just a fancily dressed elementary school teacher. However, with the question stuck in my mind, I got to researching the K-6 pin.&lt;/p&gt;
 
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
+&lt;p&gt;Through my research, I have found that the K-6 pin was the identification number given to the real Oppenheimer when he worked at the secret Los Alamos Laboratory. Below is an actual image of Oppenheimer with this identification.
 
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+&lt;img class=&quot;center&quot; src=&quot;/assets/images/oppenheimer-k-6.jpg&quot; alt=&quot;K-6&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The fact that the movie &lt;i&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://www.oppenheimermovie.com/&quot;&gt;Oppenheimer&lt;/a&gt;&lt;/i&gt; included the K-6 pin has grown my appreciation for the movie. To the custom-made silver New Mexico belt buckle, wide brown tie, and light brown pork pie hat, &lt;i&gt;Oppenheimer&lt;/i&gt; has definetly done its research.&lt;/p&gt;
+
+&lt;img class=&quot;center&quot; src=&quot;/assets/images/cillian-murphy-k-6.jpg&quot; alt=&quot;K-6&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;With a perfect main character, a perfect movie naturally follows.&lt;/p&gt;
+
+&lt;p&gt;Happy Halloween!&lt;/p&gt;
+&lt;/p&gt;
 </description>
         <pubDate>Tue, 31 Oct 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/oppenheimer-k6/</link>
-        <guid isPermaLink="true">http://localhost:4000/oppenheimer-k6/</guid>
+        <link>/oppenheimer-k6/</link>
+        <guid isPermaLink="true">/oppenheimer-k6/</guid>
         
         
         <category>personal</category>
@@ -38,11 +46,29 @@
 
 </description>
         <pubDate>Sun, 01 Oct 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/alchemy/</link>
-        <guid isPermaLink="true">http://localhost:4000/alchemy/</guid>
+        <link>/alchemy/</link>
+        <guid isPermaLink="true">/alchemy/</guid>
         
         
         <category>chemistry</category>
+        
+      </item>
+    
+      <item>
+        <title>My musical journey</title>
+        <description>&lt;p&gt;I play both the Western Flute as well as the Indian Bamboo flute also known as the _&lt;i&gt;&lt;em&gt;Bansuri&lt;/em&gt;. Here are pictures of me performing on stage. My dressing is Western for teh Flute and Indian for the Bansuri. For my Indian attire, I am wearing kurta pajama which is typical Indian mens’ attire and sitting with my legs crossed which is how musicians from India perform.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p class=&quot;mb-5&quot;&gt;&lt;img class=&quot;shadow-lg&quot; src=&quot;/assets/images/shiv-bansuri.jpg&quot; alt=&quot;Shiv playing Flute&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 11 Aug 2023 00:00:00 -0700</pubDate>
+        <link>/my-musical-journey/</link>
+        <guid isPermaLink="true">/my-musical-journey/</guid>
+        
+        
+        <category>personal</category>
+        
+        <category>music</category>
         
       </item>
     
@@ -85,30 +111,12 @@
 &lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 10 Aug 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/chemistry-of-colors/</link>
-        <guid isPermaLink="true">http://localhost:4000/chemistry-of-colors/</guid>
+        <pubDate>Thu, 20 Jul 2023 00:00:00 -0700</pubDate>
+        <link>/chemistry-of-colors/</link>
+        <guid isPermaLink="true">/chemistry-of-colors/</guid>
         
         
         <category>chemistry</category>
-        
-      </item>
-    
-      <item>
-        <title>My musical journey</title>
-        <description>&lt;p&gt;I play both the Western Flute as well as the Indian Bamboo flute also known as the _&lt;i&gt;&lt;em&gt;Bansuri&lt;/em&gt;. Here are pictures of me performing on stage. My dressing is Western for teh Flute and Indian for the Bansuri. For my Indian attire, I am wearing kurta pajama which is typical Indian mens’ attire and sitting with my legs crossed which is how musicians from India perform.&lt;/i&gt;&lt;/p&gt;
-
-&lt;p class=&quot;mb-5&quot;&gt;&lt;img class=&quot;shadow-lg&quot; src=&quot;/assets/images/shiv-bansuri.jpg&quot; alt=&quot;Shiv playing Flute&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 21 Jul 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/my-musical-journey/</link>
-        <guid isPermaLink="true">http://localhost:4000/my-musical-journey/</guid>
-        
-        
-        <category>personal</category>
-        
-        <category>music</category>
         
       </item>
     
@@ -229,8 +237,8 @@
 &lt;p style=&quot;text-align:center&quot;&gt;&lt;iframe style=&quot;width:50%; height:300px&quot; src=&quot;https://www.youtube.com/embed/P3RXtoYCW4M?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 06 Jul 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/mark-up-your-text-with-markdown/</link>
-        <guid isPermaLink="true">http://localhost:4000/mark-up-your-text-with-markdown/</guid>
+        <link>/mark-up-your-text-with-markdown/</link>
+        <guid isPermaLink="true">/mark-up-your-text-with-markdown/</guid>
         
         
         <category>tech</category>
@@ -239,9 +247,7 @@
     
       <item>
         <title>Chemistry one liners to fall in love with</title>
-        <description>&lt;p&gt;Here’s a collection of my all-time favorite one liner jokes in Chemistry. Reading through them makes me see the lighter side of Chemistry.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;It goes without saying that science isn’t everyone’s favorite subject in school. While some excel at biology and chemistry, others might not find it fun at all. A great way to make any subject more relatable and fun is to add humor to a lesson. Whether you’re looking for kid-friendly jokes or more mature jokes, there is tons of material out there. In other words, if you think chemistry can’t be funny, you’re wrong. From knock-knock jokes about the periodic table of elements to corny jokes about protons, neutrons, and atoms, to an endless list of chemistry puns, there are plenty of options to make you smile. If you’re a student, use these jokes to get on your teacher’s good side, and if you’re a teacher, use these to get your students to crack a smile after a particularly tough pop quiz.&lt;/em&gt;&lt;/p&gt;
+        <description>&lt;p&gt;Here’s a collection of my all-time favorite one liner jokes in chemistry. Reading through them makes me see the lighter side of chemistry.&lt;/p&gt;
 
 &lt;h4 id=&quot;the-one-liners&quot;&gt;The one-liners&lt;/h4&gt;
 &lt;ol&gt;
@@ -256,10 +262,25 @@
 &lt;h4 id=&quot;the-bar-collection&quot;&gt;The bar collection&lt;/h4&gt;
 &lt;ol&gt;
   &lt;li&gt;A neutron walks into a bar and asks the bartender how much a drink costs.
-“For you, no charge.”&lt;/li&gt;
-  &lt;li&gt;Helium walks into a bar. The bartender says, “We don’t serve noble gasses here.” Helium doesn’t react.&lt;/li&gt;
-  &lt;li&gt;Oxygen, hydrogen, sulfur, sodium, and phosphorous walk into a bar.”OH SNaP!” says the bartender.&lt;/li&gt;
-  &lt;li&gt;Fluorine and chlorine walk into a bar. The bartender greets them: “Halo gens”&lt;/li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;The bartender says, “For you, no charge.”&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Helium walks into a bar. The bartender says, “We don’t serve noble gasses here.”
+    &lt;blockquote&gt;
+      &lt;p&gt;Helium doesn’t react.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Oxygen, hydrogen, sulfur, sodium, and phosphorous walk into a bar.
+    &lt;blockquote&gt;
+      &lt;p&gt;“OH SNaP” says the bartender.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Fluorine and chlorine walk into a bar.
+    &lt;blockquote&gt;
+      &lt;p&gt;The bartender greets them: “Halo gens”&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h4 id=&quot;the-qa-collection&quot;&gt;The Q&amp;amp;A Collection&lt;/h4&gt;
@@ -290,8 +311,8 @@
 &lt;/blockquote&gt;
 </description>
         <pubDate>Wed, 28 Jun 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/chemistry-jokes/</link>
-        <guid isPermaLink="true">http://localhost:4000/chemistry-jokes/</guid>
+        <link>/chemistry-jokes/</link>
+        <guid isPermaLink="true">/chemistry-jokes/</guid>
         
         <category>fun stuff</category>
         

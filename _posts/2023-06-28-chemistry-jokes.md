@@ -12,10 +12,7 @@ toc: false
 comments: false
 #rating: 4.5
 ---
-Here's a collection of my all-time favorite one liner jokes in Chemistry. Reading through them makes me see the lighter side of Chemistry. 
-
-_It goes without saying that science isn't everyone's favorite subject in school. While some excel at biology and chemistry, others might not find it fun at all. A great way to make any subject more relatable and fun is to add humor to a lesson. Whether you're looking for kid-friendly jokes or more mature jokes, there is tons of material out there. In other words, if you think chemistry can't be funny, you're wrong. From knock-knock jokes about the periodic table of elements to corny jokes about protons, neutrons, and atoms, to an endless list of chemistry puns, there are plenty of options to make you smile. If you're a student, use these jokes to get on your teacher's good side, and if you're a teacher, use these to get your students to crack a smile after a particularly tough pop quiz._
-
+Here's a collection of my all-time favorite one liner jokes in chemistry. Reading through them makes me see the lighter side of chemistry. 
 
 #### The one-liners
 1. If you're not part of the solution … <b>you're part of the precipitate.</b>
@@ -27,10 +24,13 @@ _It goes without saying that science isn't everyone's favorite subject in school
 
 #### The bar collection
 1. A neutron walks into a bar and asks the bartender how much a drink costs.
-"For you, no charge."
-1. Helium walks into a bar. The bartender says, "We don't serve noble gasses here." Helium doesn't react.
-1. Oxygen, hydrogen, sulfur, sodium, and phosphorous walk into a bar."OH SNaP!" says the bartender.
-1. Fluorine and chlorine walk into a bar. The bartender greets them: “Halo gens”
+>The bartender says, "For you, no charge."
+1. Helium walks into a bar. The bartender says, "We don't serve noble gasses here." 
+>Helium doesn't react.
+1. Oxygen, hydrogen, sulfur, sodium, and phosphorous walk into a bar.
+>"OH SNaP" says the bartender.
+1. Fluorine and chlorine walk into a bar. 
+>The bartender greets them: “Halo gens”
 
 #### The Q&A Collection
 _Click on the fuzzed out text below to reveal the answer to the one liners :)_

@@ -5,8 +5,8 @@ description: "Chemistry, Music, Life"
 logo: 'assets/images/wa-hsnberg.png'
 favicon: 'assets/images/wa-hsnberg.png'
 #baseurl: /mediumish-theme-jekyll
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+google_analytics: 'G-R49M9VD5LR'
+#disqus: 'demowebsite'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/

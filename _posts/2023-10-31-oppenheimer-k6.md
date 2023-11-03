@@ -8,12 +8,21 @@ hidden: true
 image: assets/images/oppenheimer-halloween.jpg
 comments: false
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+<p>That is me, next to my organic chemistry professor <a target="_blank" href="https://www.bellevuecollege.edu/ids/staff/jennie-mayer/">Jennie Mayer</a> on Halloween.</p>
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
+<p>I dressed up as Oppenheimer, while Dr. Mayer dressed up as Mary Poppins. I had my tweed suit, brown tie, and the K-6 pin from the movie <i>Oppenheimer</i>. To top it off, I wore a brown pork pie hat, just like the real Oppenheimer did. Many loved my costume, but I stumbled across a common question all the time: what does the K-6 on my pin mean?
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+<p>I had not actually thought about it: what DOES the K-6 on my pin mean? Some joked around and said it meant kindergarten to sixth grade, and that my costume was just a fancily dressed elementary school teacher. However, with the question stuck in my mind, I got to researching the K-6 pin.</p>
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+<p>Through my research, I have found that the K-6 pin was the identification number given to the real Oppenheimer when he worked at the secret Los Alamos Laboratory. Below is an actual image of Oppenheimer with this identification.
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+<p style="text-align: center;">
+<img class="shadow-lg" src="{{site.baseurl}}/assets/images/oppenheimer-k-6.jpg" alt="K-6" class="center" /></p>
+
+<p>The fact that the movie <i> <a target="_blank" href="https://www.oppenheimermovie.com/">Oppenheimer</a></i> included the K-6 pin has grown my appreciation for the movie. To the custom-made silver New Mexico belt buckle, wide brown tie, and light brown pork pie hat, <i>Oppenheimer</i> has definetly done its research.</p>
+
+<img class="shadow-lg" src="{{site.baseurl}}/assets/images/cillian-murphy-k-6.jpg" alt="K-6" class="center" /></p>
+
+<p>With a perfect main character, a perfect movie naturally follows.</p>
+
+<p>Happy Halloween!</p>
