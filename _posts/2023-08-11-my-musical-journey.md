@@ -8,7 +8,7 @@ comments: false
 toc: true
 featured: true
 hidden: true
-beforetoc: "This picture of me playing at a local Starbucks charity event organized by my teacher Mrs. Rose. This is my story of how I picked up diferent musical instruments follows."
+beforetoc: "This picture of me playing at a local Starbucks charity event organized by my teacher Mrs. Rose. My story of how I picked up different musical instruments follows."
 ---
 ## Elementary School
 I began my music journey in fourth grade. My school music teacher made the whole class learn the recorder to prepare for fifth grade, where we would be allowed to choose from many instruments. To make learning music more fun, I remember my school music teacher gave everyone a "Recorder Karate" book. Each page contained a song and a few fingerings for the recorder. Just like karate, there were white, yellow, orange, green, purple, blue, red, brown, and black belts that could be earned. The first song was a "White Belt" song, so playing the song well would earn you a white belt. Each "belt" was a rubber band of whatever color of belt you earned wrapped around the end of the recorder. As you progress through the _Recorder Karate_ book, the songs get more challenging, but the fact that you earned a colored "belt" was enough to get me to practice my recorder every day. Eventually, I got every "belt", with my black belt being my greatest achievement at the time.

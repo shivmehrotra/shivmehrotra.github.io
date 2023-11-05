@@ -183,6 +183,12 @@ section.recent-posts {
     border-radius: 100%;
 }
 
+.hsnberg-x {
+    width: 60px;
+    height: 60px;
+    margin-right: 13px;
+}
+
 .post-top-meta {
     margin-bottom: 2rem;
 }
