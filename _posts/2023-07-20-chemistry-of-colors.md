@@ -1,46 +1,29 @@
 ---
 layout: post
-title:  "Chemistry of colors"
+title:  "Chemistry of Colors"
 author: shiv
 categories: [ chemistry ]
-image: assets/images/monalisa.jpg
-beforetoc: "Markdown editor is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post."
+image: assets/images/vincent-bedroom-in-arles.png
+beforetoc: "Vincent van Gogh's Bedroom in Arles is a colorful mix of bright orange, red, blue, and green and expresses the 'absolute restfulness' of his bedroom."
+# featured: true
 toc: true
 comments: false
 hidden: true
 ---
-There are lots of powerful things you can do with the Markdown editor
 
-If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
+Compounds get their color from chemistry. Physics may explain why the sky and ocean are blue, but chemistry explains why sapphire is blue, why rust is a brownish red, and why pencil lead is black while diamonds are transparent (despite both things being made out of carbon).
 
-As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
+## A Brief History of Colors
 
+<p>Colors have been used before writing was invented. For example, cave paintings contain black from charcoal and red from hematite, also known as iron (iii) oxide. Hematite contains Fe<sup>3+</sup> ions, which have a reddish-brown color.</p>
 
-## Special formatting
+<p>One of the first synthetic pigments humans made was </p>
 
-As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
+## The Organic Side of Colors
 
-+ ~~strike through~~
-+ ==highlight==
-+ \*escaped characters\*
+## The Inorganic Side of Colors
 
+## Getting rid of color
+How does Bleach work?
 
-## Writing code blocks
-
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
-
-```
-.my-link {
-    text-decoration: underline;
-}
-```
-
-If you want to get really fancy, you can even add syntax highlighting using Rouge.
-
-
-## Reference lists
-
-The quick brown jumped over the lazy.
-
-Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.
 

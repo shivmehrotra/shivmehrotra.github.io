@@ -6,7 +6,7 @@ categories: [ tech ]
 comments: false
 image: assets/images/md.png
 ---
-Not all content needs bell and whistles. Notepad style text is boring as well. Here is where we have a formatting standard called **Markdown** come to the rescue. Markdown is a simple text based formatting that anyone can do using a simple text editor and when it is processed by the right rendering engine, you get formatted text. It is much simpler than **html** and can very conveniently be used to write web based documents. You can learn markdown 101 [here](https://www.markdownguide.org/basic-syntax/) and [Wikipedia](https://en.wikipedia.org/wiki/Markdown) has all the details you would be interested in knowing about markdown, including its history. In this article I am sharing some of the more advanced things that you can do using markdown.
+Not all content needs bell and whistles. Notepad style text is boring as well. This is where a formatting standard called **Markdown** comes to the rescue. Markdown is a simple text based formatting that anyone can do using a simple text editor and when it is processed by the right rendering engine, you get formatted text. It is much simpler than **html** and can very conveniently be used to write web based documents. You can learn markdown 101 [here](https://www.markdownguide.org/basic-syntax/) and [Wikipedia](https://en.wikipedia.org/wiki/Markdown) has all the details you would be interested in knowing about markdown, including its history. In this article I am sharing some of the more advanced things that you can do using markdown.
 
 
 ## Special formatting

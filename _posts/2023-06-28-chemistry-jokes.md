@@ -2,7 +2,7 @@
 layout: post
 title:  "Chemistry one liners to fall in love with"
 author: shiv
-categories: [ personal, chemistry ]
+categories: [ chemistry ]
 tags: [fun stuff]
 image: assets/images/chemistry-jokes-title-image.jpg
 description: "Collection of funny chemistry stuff"
@@ -32,7 +32,7 @@ Here's a collection of my all-time favorite one liner jokes in chemistry. Readin
 1. Fluorine and chlorine walk into a bar. 
 >The bartender greets them: “Halo gens”
 
-#### The Q&A Collection
+#### The Q&A collection
 _Click on the fuzzed out text below to reveal the answer to the one liners :)_
 
 1. Know any good chemistry jokes? <span class="spoiler"><b>Na</b></span>
