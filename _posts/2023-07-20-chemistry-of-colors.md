@@ -7,6 +7,7 @@ image: assets/images/vincent-bedroom-in-arles.png
 beforetoc: "Vincent van Gogh's Bedroom in Arles is a colorful mix of bright orange, red, blue, and green and expresses the 'absolute restfulness' of his bedroom."
 featured: true
 toc: true
+hidden: true
 comments: false
 ---
 

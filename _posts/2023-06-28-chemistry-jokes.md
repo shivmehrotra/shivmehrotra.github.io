@@ -6,8 +6,6 @@ categories: [ chemistry ]
 tags: [fun stuff]
 image: assets/images/chemistry-jokes-title-image.jpg
 description: "Collection of funny chemistry stuff"
-featured: true
-hidden: true
 toc: false
 comments: false
 #rating: 4.5
