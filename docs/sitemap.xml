@@ -25,6 +25,10 @@
 <lastmod>2023-11-11T00:00:00-08:00</lastmod>
 </url>
 <url>
+<loc>/chess-champions/</loc>
+<lastmod>2023-12-09T00:00:00-08:00</lastmod>
+</url>
+<url>
 <loc>/about</loc>
 </url>
 <url>
@@ -47,5 +51,8 @@
 </url>
 <url>
 <loc>/category/life/</loc>
+</url>
+<url>
+<loc>/category/chess/</loc>
 </url>
 </urlset>
