@@ -6,8 +6,6 @@ categories: [ music, life ]
 image: assets/images/shiv-flute.jpg
 comments: false
 toc: true
-featured: true
-hidden: true
 beforetoc: "This picture of me playing at a local Starbucks charity event organized by my teacher Mrs. Rose. My story of how I picked up different musical instruments follows."
 ---
 ## Elementary School
