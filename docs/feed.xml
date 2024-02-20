@@ -3,10 +3,10 @@
   <channel>
     <title>heisenberg</title>
     <description>Chemistry, Music, Life</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Feb 2024 21:03:01 -0800</pubDate>
-    <lastBuildDate>Mon, 19 Feb 2024 21:03:01 -0800</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 19 Feb 2024 21:12:12 -0800</pubDate>
+    <lastBuildDate>Mon, 19 Feb 2024 21:12:12 -0800</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -95,7 +95,7 @@
 &lt;p&gt;A supersaturated solution is metastable, meaning that it is only stable if it is not subjected to any significant disturbances. If I disturbed a supersaturated solution by dipping a pencil into the solution, the substance will start precipitating out of solution until a saturated solution is achieved. As some of the substance precipitates, attractions between the precipitating substance molecules form, releasing heat energy. However, to precipitate, the precipitating substance molecules must absorb heat energy to overcome their attractions with solvent molecules. I should also mention that the solvent molecules that were once attracted to the substance molecules will form attractions with other solvent molecules, releasing additional heat energy in the process. To be exothermic, the precipitation process has to release more heant energy than it absorbs. Below is a video that demonstrates cool ways to disturb a supersaturated solution:&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/zsFA5iKc6fU&amp;amp;showinfo=0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/zsFA5iKc6fU?si=7ZAxmQ90RVKI4gKw&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/p&gt;
 
 &lt;p&gt;In most supersaturated hand warmers, a small metal disk is inside the supersaturated solution. The metal must be bent to disturb the supersaturated solution and cause some of the substance to precipitate out of the solution.&lt;/p&gt;
@@ -108,8 +108,8 @@
 &lt;p&gt;Now your supersaturated hand warmer is ready for re-use! Stay warm folks!&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Feb 2024 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/chemistry-of-hand-warmers/</link>
-        <guid isPermaLink="true">http://localhost:4000/chemistry-of-hand-warmers/</guid>
+        <link>/chemistry-of-hand-warmers/</link>
+        <guid isPermaLink="true">/chemistry-of-hand-warmers/</guid>
         
         
         <category>chemistry</category>
@@ -203,8 +203,8 @@ If you really hit it out of the park, if you are in the top 20 at the national l
 &lt;p&gt;Good luck, and may the best chemists win.&lt;/p&gt;
 </description>
         <pubDate>Mon, 25 Dec 2023 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/us-national-chemistry-olympiad/</link>
-        <guid isPermaLink="true">http://localhost:4000/us-national-chemistry-olympiad/</guid>
+        <link>/us-national-chemistry-olympiad/</link>
+        <guid isPermaLink="true">/us-national-chemistry-olympiad/</guid>
         
         
         <category>chemistry</category>
@@ -262,8 +262,8 @@ If you really hit it out of the park, if you are in the top 20 at the national l
 
 </description>
         <pubDate>Sat, 09 Dec 2023 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/chess-champions/</link>
-        <guid isPermaLink="true">http://localhost:4000/chess-champions/</guid>
+        <link>/chess-champions/</link>
+        <guid isPermaLink="true">/chess-champions/</guid>
         
         
         <category>chess</category>
@@ -320,8 +320,8 @@ If you really hit it out of the park, if you are in the top 20 at the national l
 
 </description>
         <pubDate>Sat, 11 Nov 2023 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/alchemy-to-chemistry/</link>
-        <guid isPermaLink="true">http://localhost:4000/alchemy-to-chemistry/</guid>
+        <link>/alchemy-to-chemistry/</link>
+        <guid isPermaLink="true">/alchemy-to-chemistry/</guid>
         
         
         <category>chemistry</category>
@@ -353,8 +353,8 @@ If you really hit it out of the park, if you are in the top 20 at the national l
 &lt;/p&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 31 Oct 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/oppenheimer-k6/</link>
-        <guid isPermaLink="true">http://localhost:4000/oppenheimer-k6/</guid>
+        <link>/oppenheimer-k6/</link>
+        <guid isPermaLink="true">/oppenheimer-k6/</guid>
         
         
         <category>life</category>
@@ -405,8 +405,8 @@ If you really hit it out of the park, if you are in the top 20 at the national l
 
 </description>
         <pubDate>Fri, 11 Aug 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/my-musical-journey/</link>
-        <guid isPermaLink="true">http://localhost:4000/my-musical-journey/</guid>
+        <link>/my-musical-journey/</link>
+        <guid isPermaLink="true">/my-musical-journey/</guid>
         
         
         <category>music</category>
@@ -527,8 +527,8 @@ If you really hit it out of the park, if you are in the top 20 at the national l
 
 </description>
         <pubDate>Thu, 20 Jul 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/chemistry-of-colors/</link>
-        <guid isPermaLink="true">http://localhost:4000/chemistry-of-colors/</guid>
+        <link>/chemistry-of-colors/</link>
+        <guid isPermaLink="true">/chemistry-of-colors/</guid>
         
         
         <category>chemistry</category>
@@ -652,8 +652,8 @@ If you really hit it out of the park, if you are in the top 20 at the national l
 &lt;p style=&quot;text-align:center&quot;&gt;&lt;iframe style=&quot;width:50%; height:300px&quot; src=&quot;https://www.youtube.com/embed/P3RXtoYCW4M?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 06 Jul 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/mark-up-your-text-with-markdown/</link>
-        <guid isPermaLink="true">http://localhost:4000/mark-up-your-text-with-markdown/</guid>
+        <link>/mark-up-your-text-with-markdown/</link>
+        <guid isPermaLink="true">/mark-up-your-text-with-markdown/</guid>
         
         
         <category>tech</category>
@@ -726,8 +726,8 @@ If you really hit it out of the park, if you are in the top 20 at the national l
 &lt;/blockquote&gt;
 </description>
         <pubDate>Wed, 28 Jun 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/chemistry-jokes/</link>
-        <guid isPermaLink="true">http://localhost:4000/chemistry-jokes/</guid>
+        <link>/chemistry-jokes/</link>
+        <guid isPermaLink="true">/chemistry-jokes/</guid>
         
         <category>fun stuff</category>
         

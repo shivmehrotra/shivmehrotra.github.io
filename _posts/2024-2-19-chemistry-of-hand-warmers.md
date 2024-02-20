@@ -95,7 +95,7 @@ Unlike the hand warmers we have covered so far, electric hand warmers work using
 <p>A supersaturated solution is metastable, meaning that it is only stable if it is not subjected to any significant disturbances. If I disturbed a supersaturated solution by dipping a pencil into the solution, the substance will start precipitating out of solution until a saturated solution is achieved. As some of the substance precipitates, attractions between the precipitating substance molecules form, releasing heat energy. However, to precipitate, the precipitating substance molecules must absorb heat energy to overcome their attractions with solvent molecules. I should also mention that the solvent molecules that were once attracted to the substance molecules will form attractions with other solvent molecules, releasing additional heat energy in the process. To be exothermic, the precipitation process has to release more heant energy than it absorbs. Below is a video that demonstrates cool ways to disturb a supersaturated solution:</p>
 
 <p style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zsFA5iKc6fU&amp;showinfo=0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zsFA5iKc6fU?si=7ZAxmQ90RVKI4gKw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 </p>
 
 <p>In most supersaturated hand warmers, a small metal disk is inside the supersaturated solution. The metal must be bent to disturb the supersaturated solution and cause some of the substance to precipitate out of the solution.</p>
