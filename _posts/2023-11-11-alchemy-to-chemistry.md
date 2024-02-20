@@ -5,8 +5,8 @@ author: shiv
 categories: [ chemistry ]
 image: assets/images/alchemy.jpg
 comments: false
-featured: true
-hidden: true
+featured: false
+hidden: false
 #published: false
 ---
 Alchemy was chemistry in its infancy.

@@ -51,4 +51,4 @@ _Click on the fuzzed out text below to reveal the answer to the one liners :)_
 <p style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6aK2CKrdjbE?start=6&amp;showinfo=0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 </p>
->**Disclaimer:** Do not do this in your chemistry lab though
+>**Disclaimer:** Do not do this in your chemistry lab though.
